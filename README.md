@@ -6,13 +6,13 @@
 ## Imagens
 
 <p>
-  <img src="./Images/img1.png" width="900" title="preview">
+  <img src="./Images/img1.png" width="500" title="preview">
 
 </p>
 
 ## Resumo
 
-O objetivo era ganhar experiência com matrizes, herança, exceões, composição, POO em geral ;  
+O objetivo era ganhar experiência com matrizes, herança, exceões, composição, POO em geral;  
 
 ## Versões - Histórico
 
